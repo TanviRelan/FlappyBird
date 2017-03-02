@@ -1,0 +1,6 @@
+coverage_service: cobertura_xml
+xcodeproj:/Users/admin/Desktop/ALM/FlappyBird/FlappyBird.xcodeproj
+scheme: FlappyBird
+source_directory:/Users/admin/Desktop/ALM/FlappyBird/FlappyBird
+output_directory:/Users/admin/Desktop/ALM/FlappyBird/sonar-reports
+

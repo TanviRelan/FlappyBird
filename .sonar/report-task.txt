@@ -1,0 +1,5 @@
+projectKey=ios_FlappyBird
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/ios_FlappyBird
+ceTaskId=AVpFYKcLwnzhvGQTJwuh
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVpFYKcLwnzhvGQTJwuh
