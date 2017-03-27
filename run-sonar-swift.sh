@@ -14,6 +14,8 @@ XCPRETTY_CMD=xcpretty
 LIZARD_CMD=lizard
 
 
+
+
 trap "echo 'Script interrupted by Ctrl+C'; stopProgress; exit 1" SIGHUP SIGINT SIGTERM
 
 function startProgress() {
